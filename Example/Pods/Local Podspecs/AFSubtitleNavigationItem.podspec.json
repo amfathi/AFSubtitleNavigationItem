@@ -1,0 +1,22 @@
+{
+  "name": "AFSubtitleNavigationItem",
+  "version": "0.1.0",
+  "summary": "A short description of AFSubtitleNavigationItem.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ahmedfathi680@gmail.com/AFSubtitleNavigationItem",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ahmedfathi680@gmail.com": "AhmedFathi680@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ahmedfathi680@gmail.com/AFSubtitleNavigationItem.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AFSubtitleNavigationItem/Classes/**/*"
+}

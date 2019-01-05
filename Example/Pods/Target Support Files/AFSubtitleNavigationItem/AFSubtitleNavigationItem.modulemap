@@ -1,0 +1,6 @@
+framework module AFSubtitleNavigationItem {
+  umbrella header "AFSubtitleNavigationItem-umbrella.h"
+
+  export *
+  module * { export * }
+}

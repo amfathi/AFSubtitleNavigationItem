@@ -1,0 +1,16 @@
+PODS:
+  - AFSubtitleNavigationItem (0.1.0)
+
+DEPENDENCIES:
+  - AFSubtitleNavigationItem (from `../`)
+
+EXTERNAL SOURCES:
+  AFSubtitleNavigationItem:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFSubtitleNavigationItem: 45ab5677ae91070c4a9133af68b57fb29f0f63bb
+
+PODFILE CHECKSUM: 1fdfb664cb000e1d81beb9c84cf78e15889f800e
+
+COCOAPODS: 1.5.3
