@@ -1,3 +1,5 @@
+Create custom title and subtitle labels in your native navigation item.
+
 # AFSubtitleNavigationItem
 
 [![Version](https://img.shields.io/cocoapods/v/AFSubtitleNavigationItem.svg?style=flat)](https://cocoapods.org/pods/AFSubtitleNavigationItem)
