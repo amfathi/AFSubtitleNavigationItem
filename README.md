@@ -25,6 +25,10 @@ pod 'AFSubtitleNavigationItem'
 
 Start by importing  `AFSubtitleNavigationItem` in your `AppDelegate`
 
+```
+import AFSubtitleNavigationItem
+```
+
 In your viewController's `viewDidLoad` method write the below:
 ```swfit
 navigationItem.isSubtitleEnabled = true
