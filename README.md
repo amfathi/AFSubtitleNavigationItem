@@ -33,14 +33,24 @@ import AFSubtitleNavigationItem
 ```
 
 In your viewController's `viewDidLoad` method write the below:
-```swfit
+```swift
 navigationItem.isSubtitleEnabled = true
 navigationItem.titleLabel?.text = "Title"
 navigationItem.subtitleLabel?.text = "Subtitle"
 ```
 
-Make sure this view controller actually have a navigationController, i.e. it's not directly presented without being in a navigation controller stack.
+**Warning** Make sure this view controller actually have a navigationController, i.e. it's not directly presented without being in a navigation controller stack.
 You can also your custom navigation item to your presented view controller and use `AFSubtitleNavigationItem` properties directly.
+
+### Customiziations
+
+Actually there is not limit here but only your imagination. `titleLabel` and `subtitleLabel` are both just mere `UILabels`.
+
+```swift
+navigationItem.titleLabel?.textColor = UIColor.blue
+navigationItem.titleLabel?.attributedText = NSAttributedString(string: "Attributed Title")
+navigationItem.titleLabel?.textAlignment = .left
+```
 
 ### Appearance allover the app
 
