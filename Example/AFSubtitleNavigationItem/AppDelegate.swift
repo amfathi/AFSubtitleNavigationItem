@@ -2,11 +2,12 @@
 //  AppDelegate.swift
 //  AFSubtitleNavigationItem
 //
-//  Created by ahmedfathi680@gmail.com on 01/05/2019.
-//  Copyright (c) 2019 ahmedfathi680@gmail.com. All rights reserved.
+//  Created by Ahmed Fathi Sayed on 01/05/2019.
+//  Copyright (c) 2019 Ahmed Fathi Sayed. All rights reserved.
 //
 
 import UIKit
+import AFSubtitleNavigationItem
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -16,6 +17,17 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        UINavigationItem.appearance.titleTextColor = .darkGray
+        UINavigationItem.appearance.titleTextFont = UIFont.systemFont(ofSize: 17, weight: .medium)
+        UINavigationItem.appearance.titleTextShadowColor = UIColor.black.withAlphaComponent(0.05)
+        UINavigationItem.appearance.titleTextShadowOffset = CGSize(width: 0.5, height: 0.5)
+        
+        UINavigationItem.appearance.subtitleTextColor = .darkGray
+        UINavigationItem.appearance.subtitleTextFont = UIFont.systemFont(ofSize: 13, weight: .thin)
+        UINavigationItem.appearance.subtitleTextShadowColor = UIColor.black.withAlphaComponent(0.05)
+        UINavigationItem.appearance.subtitleTextShadowOffset = CGSize(width: 1, height: 1)
+        
         return true
     }
 
