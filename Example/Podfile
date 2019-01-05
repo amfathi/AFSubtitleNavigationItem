@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AFSubtitleNavigationItem_Example' do
+  pod 'AFSubtitleNavigationItem', :path => '../'
+
+  target 'AFSubtitleNavigationItem_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
