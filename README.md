@@ -1,6 +1,5 @@
 # AFSubtitleNavigationItem
 
-[![CI Status](https://img.shields.io/travis/ahmedfathi680@gmail.com/AFSubtitleNavigationItem.svg?style=flat)](https://travis-ci.org/ahmedfathi680@gmail.com/AFSubtitleNavigationItem)
 [![Version](https://img.shields.io/cocoapods/v/AFSubtitleNavigationItem.svg?style=flat)](https://cocoapods.org/pods/AFSubtitleNavigationItem)
 [![License](https://img.shields.io/cocoapods/l/AFSubtitleNavigationItem.svg?style=flat)](https://cocoapods.org/pods/AFSubtitleNavigationItem)
 [![Platform](https://img.shields.io/cocoapods/p/AFSubtitleNavigationItem.svg?style=flat)](https://cocoapods.org/pods/AFSubtitleNavigationItem)
