@@ -30,6 +30,7 @@ The labels are fully customizable and works very well with the bar button items.
   # s.social_media_url = 'www.linkedin.com/in/ahmedfathisayed'
 
   s.ios.deployment_target = '9.0'
+  s.swift_version = '4.0'
 
   s.source_files = 'AFSubtitleNavigationItem/Classes/**/*'
   

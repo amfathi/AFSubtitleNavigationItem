@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/AFSubtitleNavigationItem.svg?style=flat)](https://cocoapods.org/pods/AFSubtitleNavigationItem)
 [![Platform](https://img.shields.io/cocoapods/p/AFSubtitleNavigationItem.svg?style=flat)](https://cocoapods.org/pods/AFSubtitleNavigationItem)
 
+![Alt text](/imgs/img_demo_1.png?raw=true "Subtitle Navigation Item")
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
