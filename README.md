@@ -69,4 +69,4 @@ Ahmed Fathi, AhmedFathi680@gmail.com
 
 ## License
 
-AFSubtitleNavigationItem is available under the MIT license. See the LICENSE file for more info.
+This code is distributed under the terms and conditions of the [MIT license](https://github.com/AhmedFathi680/AFSubtitleNavigationItem/blob/master/LICENSE).
