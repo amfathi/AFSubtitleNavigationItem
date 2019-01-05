@@ -54,7 +54,7 @@ navigationItem.titleLabel?.textAlignment = .left
 
 ### Appearance allover the app
 
-You customize all your navigationItems allover the application be easily using the below code:
+You can customize all your navigationItems allover the application easily by using the below code:
 
 Customizing titles:
 
