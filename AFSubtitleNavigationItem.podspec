@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Extending the navtive navigationItem capabilities to instantly add custom title and subtitle labels.
+Extending the native navigationItem capabilities to instantly add custom title and subtitle labels.
 The labels are fully customizable and works very well with the bar button items.
                        DESC
 
